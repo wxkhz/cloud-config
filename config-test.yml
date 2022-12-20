@@ -1,1 +1,2 @@
-this is master label  config **************test************
+config:
+  info: this is master label  config **************test************
